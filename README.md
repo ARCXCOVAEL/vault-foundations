@@ -1,5 +1,7 @@
 # Vault Foundations
 
+[Product website](https://vault-foundations.arcxcovael.com/) · [Download the Free installer](https://license.arcxcovael.com/downloads) · [Vault Foundations Guide](https://vault-foundations.arcxcovael.com/guide/)
+
 Early file filtering, responsive background work and optional folder-note navigation for your existing vault and native graph.
 
 Version 1.0.0. Published and maintained by ARCXCOVAEL LLC.
@@ -64,7 +66,7 @@ Only Windows desktop versions 1.14.4 and 1.14.5 are currently verified. Unknown 
 
 [Full guide](GUIDE.md) · [License](LICENSE) · [Third-party notices](THIRD_PARTY_NOTICES.md)
 
-Support and privacy: **support@arcxcovael.com**. Read the [Privacy](https://license.arcxcovael.com/privacy), [Sales](https://license.arcxcovael.com/refunds) and [Support](https://license.arcxcovael.com/support) policies before activation or purchase.
+Support and privacy: **support@arcxcovael.com**. Read the [Privacy](https://vault-foundations.arcxcovael.com/privacy), [Sales](https://vault-foundations.arcxcovael.com/refunds) and [Support](https://vault-foundations.arcxcovael.com/support) policies before activation or purchase.
 
 Published and maintained by **ARCXCOVAEL LLC**. This is an independent third-party plugin, not a first-party product of the host application's developer.
 
