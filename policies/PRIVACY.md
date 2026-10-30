@@ -32,7 +32,7 @@ revocation state, and account/service request counters. These records support
 activation, continuity, recovery, abuse prevention and purchased rights. An
 account-derived hash is pseudonymous account information, not anonymous data.
 
-Cloudflare hosts the licensing service/database; Clerk supplies sign-in; Paddle
+Cloudflare hosts the licensing service/database; Clerk supplies sign-in; Stripe Managed Payments
 handles checkout, transaction/tax/receipt and payment-security information; the
 company support mailbox handles messages you choose to send. Payment-card details
 are handled by the payment provider, not the plugin or licensing database.
@@ -44,7 +44,7 @@ We use necessary records to provide requested trial/purchased access, maintain
 security, prevent abuse, resolve support requests and meet legal obligations.
 We do not sell licensing information or use it for targeted advertising.
 Provider notices: https://clerk.com/legal/privacy,
-https://www.cloudflare.com/privacypolicy/ and https://www.paddle.com/legal/privacy.
+https://www.cloudflare.com/privacypolicy/ and https://stripe.com/privacy.
 
 ## Retention and requests
 
