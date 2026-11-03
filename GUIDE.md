@@ -1,6 +1,6 @@
 # Vault Foundations guide
 
-Version 1.1.0. Review the included license and the linked policies before starting a trial or buying full access.
+Version 1.1.1. Review the included license and the linked policies before starting a trial or buying full access.
 
 Open this guide in Obsidian from **Settings → Vault Foundations → Open guide**, or run **Vault Foundations: Open guide** in the command palette. The guide is included locally and does not require trial or paid access.
 
@@ -123,4 +123,16 @@ For collisions, damaged generated markers or concurrent edits, the writer preser
 
 Before updating, close the application normally and preserve the previous package plus current configuration/state and notes. Replace only authorized distributed package files; retain local settings/recovery. A rollback likewise restores only a specifically inspected prior package after compatibility review. Notes, later edits and other plugins must remain intact. Do not restore a saved licensing credential from an unrelated profile.
 
-Contact **support@arcxcovael.com** for support/privacy requests. Read the [Privacy](https://vault-foundations.arcxcovael.com/privacy), [Support](https://vault-foundations.arcxcovael.com/support) and [Sales](https://vault-foundations.arcxcovael.com/refunds) policies. Send a concise symptom and secret-free status summary first. Do not send passwords, activation codes, signed proofs, encrypted credential files or vault contents as routine support evidence.
+Contact **support@arcxcovael.com** for support/privacy requests. Read the [Privacy](https://license.arcxcovael.com/privacy), [Support](https://license.arcxcovael.com/support) and [Sales](https://license.arcxcovael.com/refunds) policies. Send a concise symptom and secret-free status summary first. Do not send passwords, activation codes, signed proofs, encrypted credential files or vault contents as routine support evidence.
+
+## Native graph recall and pause — candidate revision
+
+Vault Foundations can retain one eligible native graph while you open a note in the same tab. Back and Forward can return to that graph with its view, filters, selection, viewport and displayed node positions preserved. Live-mode recall does not require manually pausing first. Graph Views is an optional presentation companion; the acceleration belongs to Vault Foundations.
+
+Retention is bounded. Resource pressure, closing the tab, a visibility-policy change or an incompatible host/visualization version can release a retained graph. Another graph can replace it. Native navigation then creates a fresh graph. Changed contents or visualization settings require a fresh result after return.
+
+Use **Graph live · Pause** to hold automatic graph content and layout updates. **Graph paused · Resume** stays visible while paused. Pan, zoom, select and drag remain available, including after an eligible note round trip. Mode, depth, folding and tracing changes wait for Resume. Resume applies the latest bounded result or requests a fresh one if the pending result was discarded.
+
+Queries, note editing, indexing and folder table-of-contents upkeep continue. Pause does not suspend the whole application or promise zero worker CPU. Visibility-policy changes end pause so newly excluded content is not retained in the held display. These graph protections remain separate from paid automatic folder-note upkeep.
+
+**Private candidate status:** live verification is pending, including ordinary Back/Forward at Structure depth 10 and the other supported views/depths. A successful package build or source test is not proof of navigation speed or display acceptance. This revision is not approved for installation or release yet.

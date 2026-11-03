@@ -1,10 +1,8 @@
 # Vault Foundations
 
-[Product website](https://vault-foundations.arcxcovael.com/) · [Download the Free installer](https://license.arcxcovael.com/downloads) · [Vault Foundations Guide](https://vault-foundations.arcxcovael.com/guide/)
-
 Early file filtering, responsive background work and optional folder-note navigation for your existing vault and native graph.
 
-Version 1.1.0. Published and maintained by ARCXCOVAEL LLC.
+Version 1.1.1. Published and maintained by ARCXCOVAEL LLC.
 
 Vault Foundations gives folders a place in your graph through small Markdown index notes that link to original documents. Create, edit, move and rename your documents normally. One local background worker keeps configured folder links current; it does not copy your original documents or replace the native graph.
 
@@ -54,7 +52,7 @@ Use the official authorized release assets. A Community listing is not required 
 
 For an authorized package: save your work, keep an ordinary vault backup and close the application normally. Put the package's `vault-foundations` folder in your vault's `.obsidian/plugins/` folder, reopen and enable **Vault Foundations** in Community Plugins. After first enabling it, save your work and restart Obsidian once before checking early filtering. Open its settings, choose exclusions deliberately and preview folder notes before enabling their upkeep. Generic defaults do not assume a Knowledge folder or any particular drive.
 
-Only Windows desktop versions 1.14.4 and 1.14.5 are currently verified. Unknown hosts deliberately refuse early unfiltered traversal until compatibility is checked. Android, macOS and Linux are not advertised as supported by version 1.1.0.
+Supported Windows desktop versions are 1.14.4, 1.14.5, and 1.15.0. Unknown hosts deliberately refuse early unfiltered traversal until compatibility is checked. Android, macOS and Linux are not advertised as supported by version 1.1.1.
 
 ## Required disclosures
 
@@ -66,8 +64,10 @@ Only Windows desktop versions 1.14.4 and 1.14.5 are currently verified. Unknown 
 
 [Full guide](GUIDE.md) · [License](LICENSE) · [Third-party notices](THIRD_PARTY_NOTICES.md)
 
-Support and privacy: **support@arcxcovael.com**. Read the [Privacy](https://vault-foundations.arcxcovael.com/privacy), [Sales](https://vault-foundations.arcxcovael.com/refunds) and [Support](https://vault-foundations.arcxcovael.com/support) policies before activation or purchase.
+Support and privacy: **support@arcxcovael.com**. Read the [Privacy](https://license.arcxcovael.com/privacy), [Sales](https://license.arcxcovael.com/refunds) and [Support](https://license.arcxcovael.com/support) policies before activation or purchase.
 
 Published and maintained by **ARCXCOVAEL LLC**. This is an independent third-party plugin, not a first-party product of the host application's developer.
 
 Thank you for downloading Vault Foundations and supporting ARCXCOVAEL LLC. Whether you keep the free edition or choose full access, we appreciate your trust and feedback. We support our users through the published support policy and welcome thoughtful reports that help us improve.
+
+See GUIDE.md → Native graph recall and pause for the candidate behavior and verification limits.
