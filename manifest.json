@@ -1,7 +1,7 @@
 {
   "id": "vault-foundations",
   "name": "Vault Foundations",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "minAppVersion": "1.14.4",
   "description": "Apply early indexing exclusions and maintain optional linked folder notes on the native graph.",
   "author": "ARCXCOVAEL LLC",
