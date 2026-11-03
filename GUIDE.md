@@ -1,6 +1,6 @@
 # Vault Foundations guide
 
-Version 1.1.1. Review the included license and the linked policies before starting a trial or buying full access.
+Version 1.1.2. Review the included license and the linked policies before starting a trial or buying full access.
 
 Open this guide in Obsidian from **Settings → Vault Foundations → Open guide**, or run **Vault Foundations: Open guide** in the command palette. The guide is included locally and does not require trial or paid access.
 
