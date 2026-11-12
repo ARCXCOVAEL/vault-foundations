@@ -2,9 +2,11 @@
 
 Early file filtering, responsive background work and optional folder-note navigation for your existing vault and native graph.
 
-Version 1.1.2. Published and maintained by ARCXCOVAEL LLC.
+Version 1.1.3. Published and maintained by ARCXCOVAEL LLC.
 
 Vault Foundations gives folders a place in your graph through small Markdown index notes that link to original documents. Create, edit, move and rename your documents normally. One local background worker keeps configured folder links current; it does not copy your original documents or replace the native graph.
+
+Click **Refresh** in the status bar from a Markdown note to request native link resolution for loaded notes. This action is available in Free.
 
 ## For developers and AI workspaces
 
@@ -52,7 +54,7 @@ Use the official authorized release assets. A Community listing is not required 
 
 For an authorized package: save your work, keep an ordinary vault backup and close the application normally. Put the package's `vault-foundations` folder in your vault's `.obsidian/plugins/` folder, reopen and enable **Vault Foundations** in Community Plugins. After first enabling it, save your work and restart Obsidian once before checking early filtering. Open its settings, choose exclusions deliberately and preview folder notes before enabling their upkeep. Generic defaults do not assume a Knowledge folder or any particular drive.
 
-Supported Windows desktop versions are 1.14.4, 1.14.5, and 1.15.0. Unknown hosts deliberately refuse early unfiltered traversal until compatibility is checked. Android, macOS and Linux are not advertised as supported by version 1.1.2.
+Supported Windows desktop versions are 1.14.4, 1.14.5, and 1.15.0. In a standalone Free vault on Windows with Obsidian 1.15.1, clicking **Refresh** from a Markdown note restored a deliberately stale link without restarting. Unknown hosts deliberately refuse early unfiltered traversal until compatibility is checked. Android, macOS and Linux are not advertised as supported by version 1.1.3.
 
 ## Required disclosures
 
