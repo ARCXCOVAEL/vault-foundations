@@ -6,7 +6,7 @@ Version 1.1.4. Published and maintained by ARCXCOVAEL LLC.
 
 Vault Foundations gives folders a place in your graph through small Markdown index notes that link to original documents. Create, edit, move and rename your documents normally. One local background worker keeps configured folder links current; it does not copy your original documents or replace the native graph.
 
-Click **Refresh** in the status bar from a Markdown note to request native link resolution for loaded notes. This action is available in Free.
+Click **Refresh** in the status bar to refresh loaded note links and run one folder-navigation update using your configured folders and output locations. Manual Refresh is available in Free and Full, including when automatic upkeep is off. It does not enable automatic upkeep or start a trial. Full access adds ongoing automatic updates. Preview the configured navigation before the first manual update; handwritten text outside managed sections is preserved.
 
 ## For developers and AI workspaces
 

@@ -4,7 +4,7 @@ Version 1.1.4. Review the included license and the linked policies before starti
 
 Open this guide in Obsidian from **Settings → Vault Foundations → Open guide**, or run **Vault Foundations: Open guide** in the command palette. The guide is included locally and does not require trial or paid access.
 
-Click **Refresh** in the status bar from a Markdown note to request native link resolution for loaded notes. This action is available in Free.
+Click **Refresh** in the status bar to refresh loaded note links and run one folder-navigation update using your configured folders and output locations. Manual Refresh is available in Free and Full, including when automatic upkeep is off. It does not enable automatic upkeep or start a trial. Full access adds ongoing automatic updates. Preview the configured navigation before the first manual update; handwritten text outside managed sections is preserved.
 
 ## For developers and AI workspaces
 
